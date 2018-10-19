@@ -1,2 +1,0 @@
-# ETLProject
-Group project
