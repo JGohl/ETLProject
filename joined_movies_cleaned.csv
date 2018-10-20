@@ -1,0 +1,101 @@
+id,title,imdb_id,original_language,release_date,revenue,vote_average,title,gross,budget,genres,actor_1_name,language,country,title_year,content_rating,imdb_score,movie_facebook_likes
+9598,Babe,tt0112431,en,7/18/1995,254134910,6,Babe,66600000,30000000,Comedy|Drama|Family,"Miriam Margolyes",English,Australia,1995,G,6.8,5000
+9312,"Mortal Kombat",tt0113855,en,8/18/1995,122195920,5.4,"Mortal Kombat",70360285,18000000,Action|Adventure|Fantasy|Sci-Fi|Thriller,"Christopher Lambert",English,USA,1995,PG-13,5.8,0
+577,"To Die For",tt0114681,en,5/20/1995,21284514,6.7,"To Die For",21200000,20000000,Comedy|Crime|Drama,"Kurtwood Smith",English,USA,1995,R,6.8,1000
+807,Se7en,tt0114369,en,9/22/1995,327311859,8.1,Se7en,100125340,33000000,Crime|Drama|Mystery|Thriller,"Morgan Freeman",English,USA,1995,R,8.6,39000
+10530,Pocahontas,tt0114148,en,6/14/1995,346079773,6.7,Pocahontas,141600000,55000000,Adventure|Animation|Drama|Family|History|Musical|Romance,"Christian Bale",English,USA,1995,G,6.6,0
+11359,"The Indian in the Cupboard",tt0113419,en,7/14/1995,0,5.9,"The Indian in the Cupboard",35617599,45000000,Drama|Family|Fantasy,"Steve Coogan",English,USA,1995,PG,5.9,0
+9623,"The Juror",tt0116731,en,2/2/1996,0,5.5,"The Juror",44834712,44000000,Drama|Thriller,"Joseph Gordon-Levitt",English,USA,1996,R,5.6,353
+10534,"White Squall",tt0118158,en,2/2/1996,10300000,6.3,"White Squall",10300000,38000000,Adventure|Drama,"Jeff Bridges",English,USA,1996,PG-13,6.6,911
+9095,"Mary Reilly",tt0117002,en,2/23/1996,12379402,5.7,"Mary Reilly",5600000,47000000,Drama|Horror|Romance|Thriller,"Julia Roberts",English,USA,1996,R,5.8,616
+9208,"Broken Arrow",tt0115759,en,2/9/1996,150270147,5.7,"Broken Arrow",70450000,50000000,Action|Crime|Thriller,"Delroy Lindo",English,USA,1996,R,6,0
+11062,"City Hall",tt0115907,en,2/16/1996,0,6,"City Hall",20300000,40000000,Drama|Thriller,"Al Pacino",English,USA,1996,R,6.2,309
+688,"The Bridges of Madison County",tt0112579,en,5/28/1995,182016617,7.3,"The Bridges of Madison County",70960517,35000000,Drama|Romance,"Clint Eastwood",English,USA,1995,PG-13,7.5,0
+197,Braveheart,tt0112573,en,5/24/1995,210000000,7.7,Braveheart,75600000,72000000,Biography|Drama|History|War,"Mhairi Calvey",English,USA,1995,R,8.4,17000
+11066,Boomerang,tt0103859,en,6/30/1992,70100000,5.4,Boomerang,70100000,40000000,Comedy|Drama|Romance,"John Witherspoon",English,USA,1992,R,5.4,0
+5757,"Man of the Year",tt0113756,en,9/15/1995,209935,3.8,"Man of the Year",37442180,20000000,Comedy|Drama|Romance|Thriller,"Robin Williams",English,USA,2006,PG-13,6.2,0
+9302,"Up Close & Personal",tt0118055,en,3/1/1996,0,5.9,"Up Close & Personal",51045801,60000000,Drama|Romance,"Joe Mantegna",English,USA,1996,PG-13,6.1,829
+9737,"Bad Boys",tt0112442,en,4/7/1995,141407024,6.5,"Bad Boys",65807024,19000000,Action|Comedy|Crime|Drama|Thriller,"Will Smith",English,USA,1995,R,6.8,0
+568,"Apollo 13",tt0112384,en,6/30/1995,355237933,7.3,"Apollo 13",172071312,62000000,Adventure|Drama|History,"Tom Hanks",English,USA,1995,PG,7.6,5000
+11780,"Rob Roy",tt0114287,en,4/13/1995,31596911,6.5,"Rob Roy",31600000,28000000,Adventure|Biography,"Liam Neeson",English,USA,1995,R,6.9,0
+414,"Batman Forever",tt0112462,en,6/16/1995,336529144,5.2,"Batman Forever",184031112,100000000,Action|Adventure|Fantasy,"Michael Gough",English,USA,1995,PG-13,5.4,0
+8839,Casper,tt0112642,en,5/26/1995,287928194,6,Casper,100328194,50000000,Comedy|Family|Fantasy,"Eric Idle",English,USA,1995,PG,6,0
+10329,Congo,tt0112715,en,6/9/1995,152022101,5,Congo,81022333,50000000,Action|Adventure|Mystery|Sci-Fi,"Dylan Walsh",English,USA,1995,PG-13,5,0
+8963,"Crimson Tide",tt0112740,en,5/12/1995,157387195,7,"Crimson Tide",91400000,53000000,Action|Drama|Thriller|War,"Denzel Washington",English,USA,1995,R,7.3,0
+6520,"First Knight",tt0113071,en,7/7/1995,127600435,5.9,"First Knight",37600435,55000000,Action|Adventure|Romance|Thriller,"Julia Ormond",English,USA,1995,PG-13,5.9,0
+10428,Hackers,tt0113243,en,9/14/1995,7563728,6.2,Hackers,7564000,20000000,Comedy|Crime|Drama|Thriller,"Angelina Jolie Pitt",English,USA,1995,PG-13,6.2,12000
+1642,"The Net",tt0113957,en,7/28/1995,110627965,5.6,"The Net",50728000,22000000,Action|Crime|Drama|Mystery|Thriller,"Ken Howard",English,USA,1995,PG-13,5.8,0
+32646,Safe,tt0114323,en,6/23/1995,0,7.2,Safe,17120019,30000000,Action|Crime|Thriller,"Jason Statham",English,USA,2012,R,6.5,12000
+10802,Showgirls,tt0114436,en,9/22/1995,20350754,4.9,Showgirls,20302961,45000000,Drama,"Bobbie Phillips",English,France,1995,NC-17,4.6,0
+9348,Species,tt0114508,en,7/7/1995,113374103,5.5,Species,60054449,35000000,Action|Horror|Sci-Fi|Thriller,"Natasha Henstridge",English,USA,1995,R,5.8,0
+3512,"Under Siege 2: Dark Territory",tt0114781,en,7/13/1995,104324083,5.6,"Under Siege 2: Dark Territory",50024083,60000000,Action|Thriller,"Peter Greene",English,USA,1995,R,5.4,1000
+9804,Waterworld,tt0114898,en,7/28/1995,264218220,5.9,Waterworld,88246220,175000000,Action|Adventure|Sci-Fi|Thriller,"Jeanne Tripplehorn",English,USA,1995,PG-13,6.1,0
+8984,Disclosure,tt0109635,en,12/9/1994,214015089,5.9,Disclosure,83000000,55000000,Drama|Thriller,"Demi Moore",English,USA,1994,R,6,0
+522,"Ed Wood",tt0109707,en,9/27/1994,5887457,7.3,"Ed Wood",5887457,18000000,Biography|Comedy|Drama,"Johnny Depp",English,USA,1994,R,7.9,0
+32631,"The Hunted",tt0113360,en,2/24/1995,0,6,"The Hunted",34238611,55000000,Action|Crime|Drama|Thriller,"Connie Nielsen",English,USA,2003,R,6,0
+6071,"Kiss of Death",tt0113552,en,4/21/1995,0,5.7,"Kiss of Death",14942422,40000000,Action|Crime|Thriller,"Nicolas Cage",English,USA,1995,R,5.9,555
+40490,"Man of the House",tt0113755,en,3/3/1995,0,5.1,"Man of the House",19118247,40000000,Action|Comedy,"Christina Milian",English,USA,2005,PG-13,5.4,779
+6950,Outbreak,tt0114069,en,3/10/1995,189859560,6.4,Outbreak,67823573,50000000,Action|Drama|Thriller,"Kevin Spacey",English,USA,1995,R,6.6,0
+12106,"The Quick and the Dead",tt0114214,en,2/9/1995,18552460,6.2,"The Quick and the Dead",18636537,32000000,Action|Thriller|Western,"Leonardo DiCaprio",English,Japan,1995,R,6.4,0
+278,"The Shawshank Redemption",tt0111161,en,9/23/1994,28341469,8.5,"The Shawshank Redemption",28341469,25000000,Crime|Drama,"Morgan Freeman",English,USA,1994,R,9.3,108000
+9067,"Tank Girl",tt0114614,en,3/31/1995,4064495,5.5,"Tank Girl",4064333,25000000,Action|Comedy|Sci-Fi,"Naomi Watts",English,USA,1995,R,5.2,0
+9271,Virtuosity,tt0114857,en,8/4/1995,24048000,5.4,Virtuosity,24048000,30000000,Action|Crime|Sci-Fi|Thriller,"Denzel Washington",English,USA,1995,R,5.5,0
+9331,"Clear and Present Danger",tt0109444,en,8/3/1994,215887717,6.4,"Clear and Present Danger",122012710,62000000,Action|Crime|Drama|Thriller,"Harrison Ford",English,USA,1994,PG-13,6.9,0
+10731,"The Client",tt0109446,en,7/20/1994,117615211,6.4,"The Client",92115211,45000000,Crime|Drama|Mystery|Thriller,"Bradley Whitford",English,USA,1994,PG-13,6.7,1000
+9495,"The Crow",tt0109506,en,5/11/1994,94000000,7.3,"The Crow",50693162,23000000,Action|Drama|Fantasy,"Michael Wincott",English,USA,1994,R,7.6,15000
+888,"The Flintstones",tt0109813,en,5/26/1994,341631208,5,"The Flintstones",130512915,45000000,Comedy|Family|Fantasy,"Jonathan Winters",English,USA,1994,PG,4.8,0
+13,"Forrest Gump",tt0109830,en,7/6/1994,677945399,8.2,"Forrest Gump",329691196,55000000,Comedy|Drama,"Tom Hanks",English,USA,1994,PG-13,8.8,59000
+8587,"The Lion King",tt0110357,en,6/23/1994,788241776,8,"The Lion King",422783777,45000000,Adventure|Animation|Drama|Family|Musical,"Matthew Broderick",English,USA,1994,G,8.5,17000
+854,"The Mask",tt0110475,en,7/29/1994,351583407,6.6,"The Mask",119938730,18000000,Action|Comedy|Crime|Fantasy,"Peter Greene",English,USA,1994,PG-13,6.9,0
+8987,"The River Wild",tt0110997,en,9/30/1994,0,6.1,"The River Wild",46815748,45000000,Action|Adventure|Crime|Thriller,"Meryl Streep",English,USA,1994,PG-13,6.3,0
+1637,Speed,tt0111257,en,6/9/1994,350448145,6.8,Speed,121248145,25000000,Action|Adventure|Crime|Thriller,"Keanu Reeves",English,USA,1994,R,7.2,0
+8831,Timecop,tt0111438,en,9/15/1994,101646581,5.5,Timecop,44450000,27000000,Action|Crime|Sci-Fi|Thriller,"Mia Sara",English,Canada,1994,R,5.8,0
+36955,"True Lies",tt0111503,en,7/14/1994,378882411,6.8,"True Lies",146282411,115000000,Action|Comedy|Thriller,"Jamie Lee Curtis",English,USA,1994,R,7.2,0
+10395,Wolf,tt0111742,en,6/17/1994,0,6,Wolf,65012000,70000000,Drama|Horror|Romance|Thriller,"David Hyde Pierce",English,USA,1994,R,6.2,0
+12160,"Wyatt Earp",tt0111756,en,6/24/1994,25052000,6.5,"Wyatt Earp",25052000,63000000,Adventure|Biography|Crime|Drama|Western,"Dennis Quaid",English,USA,1994,PG-13,6.6,0
+203119,"Open Season",tt0114047,en,5/3/1996,0,0,"Open Season",84303558,85000000,Adventure|Animation|Comedy|Family,"Jon Favreau",English,USA,2006,PG,6.2,863
+10436,"The Age of Innocence",tt0106226,en,9/17/1993,32255440,7,"The Age of Innocence",32000000,30000000,Drama|Romance,"Richard E. Grant",English,USA,1993,PG,7.2,0
+306,"Beverly Hills Cop III",tt0109254,en,5/24/1994,119208989,5.5,"Beverly Hills Cop III",42610000,55000000,Action|Comedy|Crime|Thriller,"Louis Lombardi",English,USA,1994,R,5.5,669
+9350,Cliffhanger,tt0106582,en,5/28/1993,255000211,6.1,Cliffhanger,84049211,70000000,Action|Adventure|Thriller,"Sylvester Stallone",English,USA,1993,R,6.4,0
+37233,"The Firm",tt0106918,en,6/30/1993,270248367,6.6,"The Firm",158348400,42000000,Drama|Mystery|Thriller,"Tom Cruise",English,USA,1993,R,6.8,0
+5503,"The Fugitive",tt0106977,en,8/6/1993,368875760,7.2,"The Fugitive",183875760,44000000,Action|Adventure|Crime|Drama|Mystery|Thriller,"Harrison Ford",English,USA,1993,PG-13,7.8,0
+11934,"The Hudsucker Proxy",tt0110074,en,3/11/1994,0,7.1,"The Hudsucker Proxy",2869369,30000000,Comedy|Fantasy,"Jennifer Jason Leigh",English,UK,1994,PG,7.3,0
+329,"Jurassic Park",tt0107290,en,6/11/1993,920100000,7.6,"Jurassic Park",356784000,63000000,Adventure|Sci-Fi|Thriller,"Wayne Knight",English,USA,1993,PG-13,8.1,19000
+9593,"Last Action Hero",tt0107362,en,6/18/1993,137298489,6.1,"Last Action Hero",50016394,70000000,Action|Adventure|Comedy|Fantasy,"F. Murray Abraham",English,USA,1993,PG-13,6.2,0
+2320,"Executive Decision",tt0116253,en,3/15/1996,121969216,5.8,"Executive Decision",68750000,55000000,Action|Adventure|Thriller,"Oliver Platt",English,USA,1996,R,6.4,0
+11858,"Renaissance Man",tt0110971,en,6/3/1994,24332324,5.9,"Renaissance Man",24332324,40000000,Comedy|Drama,"Ed Begley Jr.",English,USA,1994,PG-13,6.1,680
+5550,"RoboCop 3",tt0107978,en,4/17/1993,10696210,4.2,"RoboCop 3",10696210,23500000,Action|Crime|Sci-Fi|Thriller,"CCH Pounder",English,USA,1993,PG-13,3.9,716
+8850,"The Shadow",tt0111143,en,7/1/1994,48063435,5.4,"The Shadow",32055248,25000000,Action|Adventure|Crime|Fantasy|Mystery|Thriller,"Jonathan Winters",English,USA,1994,PG-13,6,0
+78,"Blade Runner",tt0083658,en,6/25/1982,33139618,7.9,"Blade Runner",27000000,28000000,Sci-Fi|Thriller,"Harrison Ford",English,USA,1982,R,8.2,34000
+9607,"Super Mario Bros.",tt0108255,en,5/28/1993,20915465,4,"Super Mario Bros.",20915465,42000000,Adventure|Comedy|Family|Fantasy|Sci-Fi,"Bob Hoskins",English,UK,1993,PG,4,0
+251,Ghost,tt0099653,en,7/12/1990,505000000,6.9,Ghost,217631306,22000000,Drama|Fantasy|Romance|Thriller,"Demi Moore",English,USA,1990,PG-13,7,0
+280,"Terminator 2: Judgment Day",tt0103064,en,7/1/1991,520000000,7.7,"Terminator 2: Judgment Day",204843350,102000000,Action|Sci-Fi,"Joe Morton",English,USA,1991,R,8.5,13000
+268,Batman,tt0096895,en,6/23/1989,411348924,7,Batman,251188924,35000000,Action|Adventure,"Michael Gough",English,USA,1989,PG-13,7.6,12000
+274,"The Silence of the Lambs",tt0102926,en,2/1/1991,272742922,8.1,"The Silence of the Lambs",130727000,19000000,Crime|Drama|Horror|Thriller,"Anthony Hopkins",English,USA,1991,R,8.6,40000
+9099,"Sgt. Bilko",tt0117608,en,3/29/1996,0,5.5,"Sgt. Bilko",30400000,39000000,Comedy,"Austin Pendleton",English,USA,1996,PG,5.7,478
+10684,"Courage Under Fire",tt0115956,en,7/4/1996,100860818,6.2,"Courage Under Fire",58918501,46000000,Action|Drama|Mystery|Thriller|War,"Denzel Washington",English,USA,1996,R,6.6,975
+954,"Mission: Impossible",tt0117060,en,5/22/1996,457696359,6.7,"Mission: Impossible",180965237,80000000,Action|Adventure|Thriller,"Tom Cruise",English,USA,1996,PG-13,7.1,0
+8840,DragonHeart,tt0116136,en,5/31/1996,115267375,6.4,DragonHeart,51317350,57000000,Action|Adventure|Fantasy,"Dennis Quaid",English,USA,1996,PG-13,6.4,0
+40001,"Mrs. Winterbourne",tt0117104,en,4/19/1996,10070000,5.5,"Mrs. Winterbourne",10070000,25000000,Comedy|Drama|Romance,"Brendan Fraser",English,USA,1996,PG-13,6.2,491
+36355,Flipper,tt0116322,en,5/17/1996,20080020,5.3,Flipper,20047715,25530000,Adventure|Family,"Paul Hogan",English,USA,1996,PG,5.2,504
+9304,Multiplicity,tt0117108,en,7/19/1996,0,5.5,Multiplicity,20101861,45000000,Comedy|Romance|Sci-Fi,"John de Lancie",English,USA,1996,PG-13,6,0
+9802,"The Rock",tt0117500,en,6/6/1996,335062621,6.9,"The Rock",134006721,75000000,Action|Adventure|Thriller,"Nicolas Cage",English,USA,1996,R,7.4,51000
+664,Twister,tt0117998,en,5/10/1996,494471524,6.1,Twister,241688385,92000000,Action|Adventure|Drama|Thriller,"Philip Seymour Hoffman",English,USA,1996,PG-13,6.3,0
+10535,"Spy Hard",tt0117723,en,5/24/1996,0,4.9,"Spy Hard",26906039,18000000,Action|Comedy,"Hulk Hogan",English,USA,1996,PG-13,5.3,588
+9826,"The Phantom",tt0117331,en,6/6/1996,17300889,4.7,"The Phantom",17300889,45000000,Action|Adventure|Comedy|Fantasy,"Cary-Hiroyuki Tagawa",English,Australia,1996,PG,4.9,0
+9879,Striptease,tt0117765,en,6/28/1996,113309743,4.4,Striptease,32800000,40000000,Comedy|Crime|Drama|Thriller,"Demi Moore",English,USA,1996,R,4.3,877
+602,"Independence Day",tt0116629,en,6/25/1996,816969268,6.7,"Independence Day",306124059,75000000,Action|Adventure|Sci-Fi,"Will Smith",English,USA,1996,PG-13,6.9,16000
+9566,"The Fan",tt0116277,en,8/15/1996,18626419,5.7,"The Fan",18573791,55000000,Action|Drama|Sport|Thriller,"Robert De Niro",English,USA,1996,R,5.8,0
+10545,"The Hunchback of Notre Dame",tt0116583,en,6/21/1996,100138851,6.8,"The Hunchback of Notre Dame",100117603,100000000,Animation|Drama|Family|Musical|Romance,"Demi Moore",English,USA,1996,G,6.9,0
+9894,"The Cable Guy",tt0115798,en,6/10/1996,102825796,5.7,"The Cable Guy",60154431,47000000,Comedy|Drama|Thriller,"Matthew Broderick",English,USA,1996,PG-13,6,0
+11543,Kingpin,tt0116778,en,7/4/1996,25023434,6.7,Kingpin,24944213,27000000,Comedy|Sport,"Bill Murray",English,USA,1996,PG-13,6.9,3000
+9268,Eraser,tt0116213,en,6/21/1996,242295562,5.6,Eraser,101228120,100000000,Action|Drama|Mystery|Thriller,"Vanessa Williams",English,USA,1996,R,6.1,0
+9327,"The Nutty Professor",tt0117218,en,6/26/1996,128769345,5.4,"The Nutty Professor",128769345,54000000,Comedy|Romance|Sci-Fi,"Jada Pinkett Smith",English,USA,1996,PG-13,5.6,960
+11228,Daylight,tt0116040,en,12/6/1996,159212469,5.8,Daylight,32885565,80000000,Action|Adventure|Drama|Thriller,"Sylvester Stallone",English,USA,1996,PG-13,5.8,0
+9294,Phenomenon,tt0117333,en,7/5/1996,152036382,6.2,Phenomenon,104632573,32000000,Drama|Fantasy|Romance|Sci-Fi,"Robert Duvall",English,USA,1996,PG,6.4,0
+1645,"A Time to Kill",tt0117913,en,7/24/1996,152266007,7,"A Time to Kill",108706165,40000000,Crime|Drama|Thriller,"Kevin Spacey",English,USA,1996,R,7.4,0
+18550,Fled,tt0116320,en,7/19/1996,17193231,5.2,Fled,17100000,25000000,Action|Adventure|Crime|Drama|Romance,"Salma Hayek",English,USA,1996,R,5.3,204
+2925,"The First Wives Club",tt0116313,en,9/20/1996,116400000,6.5,"The First Wives Club",105444419,26000000,Comedy,"Stockard Channing",English,USA,1996,PG,6.2,0
+12123,"Chain Reaction",tt0115857,en,8/2/1996,60209334,5.3,"Chain Reaction",20550712,50000000,Action|Drama|Sci-Fi|Thriller,"Keanu Reeves",English,USA,1996,PG-13,5.6,1000
+10061,"Escape from L.A.",tt0116225,en,8/9/1996,42277365,5.6,"Escape from L.A.",25407250,50000000,Action|Adventure|Sci-Fi|Thriller,"Steve Buscemi",English,USA,1996,R,5.7,0
+10478,"Tin Cup",tt0117918,en,8/16/1996,53854588,5.9,"Tin Cup",53854588,45000000,Comedy|Drama|Romance|Sport,"Don Johnson",English,USA,1996,R,6.3,1000
